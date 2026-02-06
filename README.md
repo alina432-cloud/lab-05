@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alina Iqbal`
+- **CCID:** `iqbal8`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/android/how-to-delete-data-from-firebase-firestore-in-android/
+https://firebase.google.com/docs/storage/android/delete-files
 
 ## Verbal Collaboration
 
